@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/3ex57ph](http://bit.ly/3ex57ph)
 
-- ⚡ Fun fact **I always sleep while chanting at least one time**
+- ⚡ Fun fact **I always sleep while chanting at least one-time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
