@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm vivek goyal</h1>
+<h1>Hi 👋, I'm Vivek Goyal</h1>
 <h3>A Passionate JAVA Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-goyal12&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-goyal12" /> </p>
