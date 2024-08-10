@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [http://bit.ly/2OILMGY](http://bit.ly/2OILMGY)
 
-- 💬 Ask me about **Competitive coding**
+- 💬 Ask me about **AVA Development & Competitive Programming**
 
 - 📫 How to reach me **codewithvivek2301@gmail.com**
 
