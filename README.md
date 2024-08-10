@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vivekgoyal2301@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3M0iMF2](https://bit.ly/3M0iMF2)
+- 📄 Know about my experiences [Resume](https://bit.ly/3M0iMF2)
 
 - ⚡ Fun fact **I always sleep while chanting at least one-time**
 
