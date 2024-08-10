@@ -26,7 +26,7 @@ System**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/goyalsahab2301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="goyalsahab2301" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://bit.ly/2n9bqiu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://bit.ly/2n9bqiu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/vivek-goyal-a2689a179/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://bit.ly/2n9bqiu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15373688" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15373688" height="30" width="40" /></a>
 <a href="https://kaggle.com/vivekgoyal12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="vivekgoyal12" height="30" width="40" /></a>
 <a href="https://fb.com/vivek.goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vivek.goyal" height="30" width="40" /></a>
