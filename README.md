@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Scratch Game Inventory Management
 System**
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Spring Security, Microservices Architecture**
 
 - 👯 I’m looking to collaborate on [Campus Network Design](https://github.com/vivek-goyal12/Campus_Network_Design)
 
