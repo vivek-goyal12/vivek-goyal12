@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Competitive coding**
 
-- 📫 How to reach me **vivekgoyal2301@gmail.com**
+- 📫 How to reach me **codewithvivek2301@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://bit.ly/3M0iMF2)
 
