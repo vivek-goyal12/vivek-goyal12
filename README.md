@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/goyalsahab2301" target="blank"><img src="https://img.shields.io/twitter/follow/goyalsahab2301?logo=twitter&style=for-the-badge" alt="goyalsahab2301" /></a> </p>
 
-- 🔭 I’m currently working on **Scratch Game Inventory Management
-System**
+- 🔭 I’m currently working on **Paytm Wallet**
 - 🌱 I’m currently learning **Spring Security, Microservices Architecture**
   
 - 📝 I regularly write articles on [http://bit.ly/2OILMGY](http://bit.ly/2OILMGY)
